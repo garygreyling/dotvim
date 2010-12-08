@@ -100,3 +100,6 @@
 [submodule "bundle/ir_black"]
 	path = bundle/ir_black
 	url = git://github.com/wgibbs/vim-irblack.git
+[submodule "bundle/ir_dusty"]
+	path = bundle/ir_dusty
+	url = git://github.com/garygreyling/ir_dusty-vim.git
